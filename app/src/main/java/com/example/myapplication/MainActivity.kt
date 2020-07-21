@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     override fun onAttachedToWindow() {
-        hideSystemUI()
+      //  hideSystemUI()
         super.onAttachedToWindow()
     }
 
